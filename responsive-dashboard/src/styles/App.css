@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .dashboard {
+    padding: 20px;
+  }
+  
+  .news-list {
+    margin-top: 20px;
+  }
+  
+  .news-item {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .login {
+    margin-top: 20px;
+  }
+  
+  .payout-calculator {
+    margin-top: 20px;
+  }
+  
